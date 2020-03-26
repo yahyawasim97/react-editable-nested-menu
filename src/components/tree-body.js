@@ -139,7 +139,8 @@ function TreeBody({
                           float: 'right',
                           color: 'red',
                           fontSize: 25,
-                          fontWeight: 'bold'
+                          fontWeight: 'bold',
+                          cursor: 'pointer'
                         }}
                         onClick={() => {
                           removeMenu(menuIndex);

@@ -125,10 +125,13 @@ function Menu({
                 float: 'right',
                 color: 'red',
                 fontSize: 25,
-                fontWeight: 'bold'
+                fontWeight: 'bold',
+                cursor: 'pointer'
               }}
               onClick={() => removeCategory(menuIndex, categoryIndex)}
-            ></p>
+            >
+              -
+            </p>
           </Col>
         )}
       </Row>

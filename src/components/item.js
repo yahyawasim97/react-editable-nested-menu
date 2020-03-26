@@ -96,7 +96,8 @@ function Item({
               float: 'right',
               color: 'red',
               fontSize: 25,
-              fontWeight: 'bold'
+              fontWeight: 'bold',
+              cursor: 'pointer'
             }}
             onClick={() => removeItem(menuIndex, categoryIndex, index)}
           ></p>
