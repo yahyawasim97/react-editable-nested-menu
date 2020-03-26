@@ -46,16 +46,16 @@ Yarn
 Read Mode:
 
 - Two Level
-  ![Two Level Read](https://drive.google.com/file/d/1kbsUqAI64h2kHnXg4CF2G1WvnAxS3glW/view?usp=sharing)
+  ![Two Level Read](https://i.ibb.co/KyqP0bL/2.png)
 - Three Level
-  ![Three Level Read](https://drive.google.com/file/d/1kHnCAvunogsImplohpcrC8xt4CtH6Eym/view?usp=sharing)
+  ![Three Level Read](https://i.ibb.co/FYZhHyX/3.png)
 
 Edit Mode:
 
 - Two Level
-  ![Two Level Edit](https://drive.google.com/file/d/145ojS_YW-S63cFdRlpGL8r48-O8ld8An/view?usp=sharing)
+  ![Two Level Edit](https://i.ibb.co/khk4hDk/2-e.png)
 - Three Level
-  ![Three Level Edit](https://drive.google.com/file/d/1o1Mggpc5zXJ4fovOXfPIIjkdJD2Sn98-/view?usp=sharing)
+  ![Three Level Edit](https://i.ibb.co/F0kzmbc/3-e.png)
 
 ## Keywords
 
