@@ -1,0 +1,11 @@
+{
+  "name": "react-editable-nested-menu",
+  "version": "1.0.0",
+  "description": "React Editable Nested Menu For Restaurants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yahya Wasim",
+  "license": "MIT"
+}
