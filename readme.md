@@ -48,7 +48,7 @@ Read Mode:
 - Two Level
   ![Two Level Read](https://i.ibb.co/SR2zkbd/2.png)
 - Three Level
-  ![Three Level Read](https://i.ibb.co/FYZhHyX/3.png)
+  ![Three Level Read](https://i.ibb.co/G24dY0S/3.png)
 
 Edit Mode:
 
