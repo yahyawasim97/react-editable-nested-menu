@@ -1,11 +1,63 @@
 {
   "name": "react-editable-nested-menu",
-  "version": "1.0.0",
+  "version": "0.0.2",
   "description": "React Editable Nested Menu For Restaurants",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "keywords": [
+    "react",
+    "menu",
+    "nested",
+    "editable",
+    "tree",
+    "restaurant-menu",
+    "nested-menu",
+    "reactjs",
+    "react-component",
+    "editable-menu",
+    "editable-tree"
+  ],
+  "main": "build/index.js",
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "bootstrap": "^4.4.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.1",
+    "reactstrap": "^8.4.1"
   },
-  "author": "Yahya Wasim",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "author": {
+    "name": "Yahya Wasim",
+    "email": "yahyaand786@gmail.com"
+  },
+  "peerDependencies": {
+    "prop-types": "^15.6.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "css-loader": "^3.4.2",
+    "path": "^0.12.7",
+    "prop-types": "^15.6.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "webpack": "^4.5.0",
+    "webpack-cli": "^3.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yahyawasim97/react-editable-nested-menu"
+  },
+  "bugs": "https://github.com/yahyawasim97/react-editable-nested-menu/issues",
   "license": "MIT"
 }
