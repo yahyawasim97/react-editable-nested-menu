@@ -46,7 +46,7 @@ Yarn
 Read Mode:
 
 - Two Level
-  ![Two Level Read](https://i.ibb.co/KyqP0bL/2.png)
+  ![Two Level Read](https://i.ibb.co/SR2zkbd/2.png)
 - Three Level
   ![Three Level Read](https://i.ibb.co/FYZhHyX/3.png)
 
