@@ -133,13 +133,20 @@ function TreeBody({
                   </Col>
                   {mode === 'edit' && (
                     <Col xs="4" md="2">
-                      <i
-                        className="fa fa-minus"
-                        style={{ float: 'right', color: 'red' }}
+                      <p
+                        className="px-1"
+                        style={{
+                          float: 'right',
+                          color: 'red',
+                          fontSize: 25,
+                          fontWeight: 'bold'
+                        }}
                         onClick={() => {
                           removeMenu(menuIndex);
                         }}
-                      ></i>
+                      >
+                        -
+                      </p>
                     </Col>
                   )}
                 </Row>

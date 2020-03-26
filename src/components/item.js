@@ -90,11 +90,16 @@ function Item({
       </Col>
       {mode === 'edit' && (
         <Col xs="12" md="2" style={{ margin: '5px 0px' }}>
-          <i
-            className="fa fa-minus"
-            style={{ float: 'right', color: 'red' }}
+          <p
+            className="px-1"
+            style={{
+              float: 'right',
+              color: 'red',
+              fontSize: 25,
+              fontWeight: 'bold'
+            }}
             onClick={() => removeItem(menuIndex, categoryIndex, index)}
-          ></i>
+          ></p>
         </Col>
       )}
     </Row>
