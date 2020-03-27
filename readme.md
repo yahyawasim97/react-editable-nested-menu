@@ -41,20 +41,32 @@ Yarn
 | secondLevelShouldHaveDetails | `boolean`         | `'false'`                |
 | logo                         | `string`          | `null`                   |
 
+
+## Basic Usage
+
+    import  NestedEditableTree  from  'react-editable-nested-menu';
+    
+        <NestedEditableTree
+        getValueOnSave={list  => {
+        console.log(list);
+        }}
+        />
+
+
 ## Screenshots
 
-Read Mode:
+### Read Mode:
 
-- Two Level
+#### Two Level
   ![Two Level Read](https://i.ibb.co/SR2zkbd/2.png)
-- Three Level
+#### Three Level
   ![Three Level Read](https://i.ibb.co/G24dY0S/3.png)
 
-Edit Mode:
+### Edit Mode:
 
-- Two Level
+#### Two Level
   ![Two Level Edit](https://i.ibb.co/khk4hDk/2-e.png)
-- Three Level
+#### Three Level
   ![Three Level Edit](https://i.ibb.co/G24dY0S/3.png)
 
 ## Keywords
