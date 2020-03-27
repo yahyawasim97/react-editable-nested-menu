@@ -1,5 +1,9 @@
 This package offers a nested editable menu with different levels of nesting and customization. Give a star on github if you like the package.
 
+## Demo
+
+https://react-demo-menu.herokuapp.com/
+
 ## Features
 
 - Based on Hooks
